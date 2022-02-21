@@ -1,4 +1,4 @@
-# Unit 20 - "Looks like we've made our First Contract!"
+# Unit 20 - "Looks like we've made our First Contract!" (Solidity)
 
 ![contract](Images/smart-contract.png)
 
